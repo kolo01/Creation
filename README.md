@@ -20,7 +20,7 @@
 
             mv le_nom_du_projet  src
             cd src
-            django-admin.exe  startapp le_nom_de_l'application
+            python.exe manage.py startapp le_nom_de_l'application
             
 ## 5- Integration de notre application, des dossiers templates et static
 
